@@ -1,4 +1,4 @@
-# Ex6---Hurdle-Game-2D
+# Ex3---Hurdle-Game-2D
 
 ### Name - R SUDHIR KUMAR
 ### Register number - 212223230221
